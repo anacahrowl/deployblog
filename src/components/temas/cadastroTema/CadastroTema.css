@@ -1,0 +1,14 @@
+.topo{
+    margin-top: 20px;
+    color: brown !important;
+}
+
+.formulario{
+    color: rgb(250, 246, 253) !important;
+    
+}
+
+.botaofinalizar{
+    background:linear-gradient(rgb(138, 97, 138),transparent) !important;
+    background-color: rgb(170, 12, 222) !important;
+}

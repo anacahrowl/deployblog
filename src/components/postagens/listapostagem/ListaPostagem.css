@@ -1,0 +1,34 @@
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.botaoatualizar{
+    
+        font-weight: bold;
+        background:linear-gradient(rgb(5, 5, 5),transparent) !important;
+        background-color: rgb(209, 26, 90) !important;
+    
+    
+}
+
+.botaodeletar{
+
+        font-weight: bold;
+        background:linear-gradient(rgb(2, 2, 2),transparent) !important;
+        background-color: rgb(102, 98, 98) !important;
+    
+     
+
+}
+
+.lista{
+    
+        background-color: rgb(174, 174, 174) !important;
+
+}
+
+.listacor{
+
+background:linear-gradient(rgb(187, 89, 233),transparent) !important;
+background-color: rgb(192, 189, 189) !important;
+} 

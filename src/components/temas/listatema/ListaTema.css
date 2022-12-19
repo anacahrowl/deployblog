@@ -1,0 +1,12 @@
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.listatema{
+    background:linear-gradient(rgb(143, 142, 143),transparent) !important;
+    background-color: rgb(140, 139, 141) !important;
+}
+.fundotema{
+background:linear-gradient(rgb(216, 215, 216),transparent) !important;
+background-color: rgb(128, 52, 158) !important;
+}

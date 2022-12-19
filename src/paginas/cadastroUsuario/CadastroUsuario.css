@@ -1,0 +1,36 @@
+body{
+   margin: 0!important;
+
+}
+
+.imagem2{
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.textos2{
+    font-weight: bold !important;
+    color: thistle !important;
+}
+
+.btnCancelar{
+    margin-right: 20px !important;
+    background-color: rgb(139, 0, 253) !important;
+    
+}
+
+.papel{
+    background:linear-gradient(rgb(36, 35, 36),transparent) !important;
+    background-color: rgb(96, 4, 133) !important;
+
+}
+.btCadastrar{
+    margin-right: 20px !important;
+    background-color: rgb(184, 10, 175) !important;
+    border: 2px solid #b470c5 !important;
+}

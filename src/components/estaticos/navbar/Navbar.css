@@ -1,0 +1,23 @@
+.cursor{
+    cursor: pointer;
+    color: rgb(245, 237, 237) !important;
+    border: 10px !important;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.cornav{
+    background:linear-gradient(rgb(20, 20, 20),transparent) !important;
+    background-color: rgb(88, 3, 114) !important;
+}
+
+.font{
+    font-family:  Copperplate Gothic Light !important;
+    color: rgb(158, 154, 154) !important;
+    
+
+   
+}
+    
